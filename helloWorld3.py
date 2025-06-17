@@ -13,6 +13,7 @@ print('Hello', greetingName + '!')
 capitalisedName = greetingName.casefold().capitalize()
 
 print('Hello',capitalisedName + '!')
+# Capitalizes your name and prints <Hello, 'Your Name'> it to the screen.
 
 # CHALLENGE 2 : Change the code so that the prompt asks for the user First and Last Name and output the first letter of each word capitalised and the rest in lowercase
 
